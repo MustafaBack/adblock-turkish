@@ -21,3 +21,7 @@ www.startv.com.tr##.justify-center.items-center.mx-auto.min-h-\[250px\].max-w-\[
 www.startv.com.tr###dyg-ldb2
 www.startv.com.tr##.justify-center.items-center.flex.w-\[100\%\].h-\[250px\].dyg-display.dyg-class
 saglamindir.net##.download
+forum.donanimhaber.com##.empower-ad
+forum.donanimhaber.com##div.sagreklam
+www.donanimhaber.com##.tepe-alan
+www.donanimhaber.com##.reklam-kare
