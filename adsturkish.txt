@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Adblock Turkish list
-! Homepage: https://github.com/MustafaBack/adblock-turkish
 ! Ad URL's
 ||adhouse.pro^$third-party
+||fodsoack.com^$third-party
 ||yehdka.pro^$third-party
 ||indirads.org^$third-party
 ||celrotsoongolti.net^$third-party
-||advertune.com^$all
+||outbrain.com^$third-party
 ! special
 ||360playvid.com^$third-party,domain=technopat.net
 ||360playvid.info^$third-party,domain=technopat.net
@@ -15,7 +15,60 @@ www.startv.com.tr##.justify-center.items-center.mx-auto.min-h-\[250px\].max-w-\[
 www.startv.com.tr###dyg-ldb2
 www.startv.com.tr##.justify-center.items-center.flex.w-\[100\%\].h-\[250px\].dyg-display.dyg-class
 saglamindir.net##.download
-forum.donanimhaber.com##.empower-ad
-forum.donanimhaber.com##div.sagreklam
-www.donanimhaber.com##.tepe-alan
-www.donanimhaber.com##.reklam-kare
+www.haberler.com###ana_masthead_1056x250
+www.haberler.com###manset_sag
+www.haberler.com###detay_masthead
+www.ensonhaber.com###top-adbar
+www.ensonhaber.com##[class="top-adbar eshx hd-280 hm-280"]
+www.haber7.com##.detail-first-ad
+www.haber7.com##.detail-second-ad
+www.haber7.com###nme-ad-64587735678218900
+spor.haber7.com##.detail-first-ad
+spor.haber7.com##.detail-second-ad
+spor.haber7.com##.news-related-box
+www.sozcu.com.tr##.mb-4.masthead-main.masthead.ad
+www.sozcu.com.tr##.d-lg-flex.d-none.mb-4.masthead.ad
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(9)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(13)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(15)
+www.sozcu.com.tr##._plus-content.mb-4.col-lg-4
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(17)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(19)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(21)
+www.sozcu.com.tr##._plus-content.col-lg-6
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(22)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(24)
+www.sozcu.com.tr##.mb-4.sidebar-300x250.ad
+www.sozcu.com.tr##.justify-content-center.mb-4.multisize.ad
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(4)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(6)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(8)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(10)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(12)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(14)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(16)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(18)
+www.sozcu.com.tr##div.mb-4.masthead.ad:nth-of-type(20)
+www.ntv.com.tr##.dygtag-decorator-masthead.dygtag-decorator.dygtag-masthead
+www.ntv.com.tr##.dygtag-masthead
+haber.mynet.com##.masthead-container.masthead-adv.adv-height250.swipe-selector.adv-item-box.mb-3.text-center.col-12
+haber.mynet.com##.mb-20px.membrana-video
+haber.mynet.com##.adv-height250.homeAdvCol.adv-item-box.mb-3.text-center.col-12
+haber.mynet.com##div.adv-height250.adv-item-box.mb-3.text-center.col-12
+haber.mynet.com##.masthead-container.masthead-adv-type-sticky.adv-item-box.mb-3.text-center.col-12
+haber.mynet.com##.adv-height250.adv-item-box.mb-4.text-center.col-12
+haber.mynet.com##.VIDEO_AD
+haber.mynet.com##div.justify-content-between.d-flex.body-banner-block:nth-of-type(1)
+haber.mynet.com##.last-banner-block.justify-content-between.d-flex.body-banner-block
+haber.mynet.com##.pt-3.w-100.justify-content-center.d-flex.masthead-top-container
+haber.mynet.com##div.justify-content-between.d-flex.body-banner-block
+www.mynet.com##.masthead-container.masthead-adv-type-sticky.adv-item-box.mb-3.text-center.col-12
+www.mynet.com##div.sidebar-sticky-adv.adv-height250.adv-item-box.mb-4.text-center.col-12
+www.mynet.com##.sidebar-sticky-adv.adv-height250.adv-item-box.mb-3.text-center.col-12
+www.mynet.com##.masthead-container.home-masthead-adv.adv-loading.adv-height250.col-adv
+www.mynet.com##div.adv-height90.adv-loading.col-adv.m-b-20
+www.mynet.com##.homepage-video-card.card
+www.mynet.com###sidebar_300x250_1
+www.mynet.com##.home-sidebar-adv.col-adv.item.col-3.col
+! anti-adb
+www.haber7.com##.fc-dialog-container
