@@ -2,7 +2,6 @@
 ! Title: Adblock Turkish filter
 ! Ad URL's
 ||adhouse.pro^$third-party
-||fodsoack.com^$third-party
 ||yehdka.pro^$third-party
 ||indirads.org^$third-party
 ||celrotsoongolti.net^$third-party
