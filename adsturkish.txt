@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adblock Turkish list
+! Title: Adblock Turkish filter
 ! Ad URL's
 ||adhouse.pro^$third-party
 ||fodsoack.com^$third-party
