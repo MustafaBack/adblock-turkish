@@ -2,16 +2,10 @@
 ! Title: Adblock Turkish list
 ! Homepage: https://github.com/MustafaBack/adblock-turkish
 ! Ad URL's
-||adform.net^$third-party
-||rubiconproject.com^$third-party
 ||adhouse.pro^$third-party
-||amazon-adsystem.com^$all
-||fodsoack.com^$third-party
 ||yehdka.pro^$third-party
 ||indirads.org^$third-party
 ||celrotsoongolti.net^$third-party
-||doubleclick.net^$all
-||pagead2.googlesyndication.com^
 ||advertune.com^$all
 ! special
 ||360playvid.com^$third-party,domain=technopat.net
