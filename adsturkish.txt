@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Adblock Turkish list
+! Homepage: https://github.com/MustafaBack/adblock-turkish
 ! Ad URL's
 ||adform.net^$third-party
 ||rubiconproject.com^$third-party
@@ -11,6 +12,7 @@
 ||celrotsoongolti.net^$third-party
 ||doubleclick.net^$all
 ||pagead2.googlesyndication.com^
+||advertune.com^$all
 ! special
 ||360playvid.com^$third-party,domain=technopat.net
 ||360playvid.info^$third-party,domain=technopat.net
